@@ -12,8 +12,6 @@ function App() {
 
       <Navbar/>
 
-      <h2>Movies Lib</h2>
-
       <Outlet></Outlet>
     </div>
   )
